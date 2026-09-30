@@ -1,0 +1,40 @@
+[
+  {
+    "id": "code-3737",
+    "code": "3737",
+    "name": "Aetheris / NexusStream Open Cinema Core Repository",
+    "description": "Verified high-definition open cinema, CC-licensed productions, and Blender Studio 4K films.",
+    "repositoryUrl": "https://repo.aetheris.org/official/index.json",
+    "manifestUrl": "/api/manifest/3737",
+    "version": "1.5.0",
+    "status": "ACTIVE",
+    "expiresAt": null,
+    "createdAt": 1727500000000,
+    "updatedAt": 1790720696629,
+    "usageCount": 143,
+    "sha256Signature": "4a53cacf35f1f2e873b3f2780e07b8b209e90632a87405be056c70364f9389c9",
+    "metadata": {
+      "category": "Open Cinema",
+      "verified": true
+    }
+  },
+  {
+    "id": "code-3670",
+    "code": "3670",
+    "name": "Public Cultural Heritage & Aerospace Media Repository",
+    "description": "Restored historical public-domain cinema milestones, NASA live aerospace feeds, and deep-space archival observations.",
+    "repositoryUrl": "https://repo.aetheris.org/archive/manifest.json",
+    "manifestUrl": "/api/manifest/3670",
+    "version": "2.1.0",
+    "status": "ACTIVE",
+    "expiresAt": null,
+    "createdAt": 1727500000000,
+    "updatedAt": 1790720702085,
+    "usageCount": 99,
+    "sha256Signature": "7d5a99f603f231d539ec579e100f3c97c59e7c973640a775cb022d411b00f127",
+    "metadata": {
+      "category": "Public Domain & Science",
+      "verified": true
+    }
+  }
+]

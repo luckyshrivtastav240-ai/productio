@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris Media",
+  "description": "Modular open-architecture media discovery, provider repository, and adaptive streaming platform for mobile, tablet, and TV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

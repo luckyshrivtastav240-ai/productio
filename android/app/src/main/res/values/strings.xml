@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aetheris Media</string>
+    <string name="discover">Discover</string>
+    <string name="search">Search</string>
+    <string name="library">Library</string>
+    <string name="providers">Providers</string>
+    <string name="settings">Settings</string>
+    <string name="continue_watching">Continue Watching</string>
+    <string name="favorites">Favorites</string>
+    <string name="downloads">Downloads</string>
+    <string name="live_tv">Live Channels</string>
+</resources>

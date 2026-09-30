@@ -1,0 +1,7 @@
+<resources>
+    <color name="obsidian_black">#0B0E14</color>
+    <color name="surface_dark">#121721</color>
+    <color name="amber_accent">#E5A93C</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_muted">#94A3B8</color>
+</resources>
